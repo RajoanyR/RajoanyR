@@ -55,7 +55,7 @@
 <div align="center">
 
 ### 📚 Actuellement en apprentissage
-⚛️ React avancé & écosystème • 🟦 TypeScript • 🐈 NestJS • 🐘 PostgreSQL • 🐳 Docker
+⚛️ React avancé & écosystème • 🟦 TypeScript • 🐈 NestJS  • 🐳 Docker
 
 ---
 
