@@ -1,17 +1,7 @@
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <!-- Apetraho eto ny rohin'ny sary profil-nao raha tianao -->
-      <img src="ETO_APETRAHO_NY_LIEN_NY_SARINAO.png" width="160px" style="border-radius: 50%;" />
-      <h3>Rolin Rajoany</h3>
-      <p>👨‍💻 Développeur Web Junior</p>
-    </td>
-    <td width="70%">
-      <h3>👋 Bonjour, je suis Rolin !</h3>
-      <p>🚀 Passionné par le développement d'applications web modernes, je construis des projets concrets pour développer mes compétences en Frontend, Backend, API et Bases de données.</p>
-    </td>
-  </tr>
-</table>
+### 👋 Bonjour, je suis Rolin Rajoany !
+
+👨‍💻 **Développeur Web Junior**  
+🚀 Passionné par le développement d'applications web modernes, je construis des projets concrets pour développer mes compétences en Frontend, Backend, API et Bases de données.
 
 ---
 
