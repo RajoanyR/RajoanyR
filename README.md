@@ -54,11 +54,6 @@
 
 <div align="center">
 
-### 📚 Actuellement en apprentissage
-⚛️ React avancé & écosystème • 🟦 TypeScript • 🐈 NestJS  • 🐳 Docker
-
----
-
 ### 💡 À propos de moi
 J'aime apprendre en pratiquant, résoudre des problèmes et transformer des idées en applications fonctionnelles.  
 🎯 **Mon objectif :** Devenir un développeur Full-Stack capable de concevoir et développer des applications web complètes, de l'interface utilisateur jusqu'à l'API et la base de données.
