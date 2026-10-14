@@ -1,8 +1,10 @@
 # 👋 Bonjour, je suis Rolin Rajoany
 
-### 💻 Développeur Web Junior | Frontend & Backend
+### 💻 Développeur Full-Stack 
 
-Passionné par le développement web, je conçois et développe des applications modernes en travaillant sur l'interface utilisateur, les API et les bases de données. J'apprends principalement à travers des projets concrets afin de renforcer mes compétences techniques et de progresser vers le développement Full-Stack.
+Développeur Full-Stack spécialisé dans la conception et le développement d'applications web, du frontend au backend. Je travaille sur la création d'interfaces utilisateur modernes, le développement d'API REST, la gestion des bases de données relationnelles et l'intégration de solutions adaptées aux besoins métiers.
+
+Rigoureux, autonome et orienté solutions, je suis capable de participer aux différentes étapes du développement d'une application web, de la conception technique à sa mise en œuvre.
 
 ---
 
@@ -26,52 +28,59 @@ Passionné par le développement web, je conçois et développe des applications
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### 🗄️ Bases de données & Modélisation
+- Conception et développement d'API REST.
+- Gestion de l'authentification et des échanges entre frontend et backend.
+- Organisation de la logique métier et structuration des applications serveur.
+
+### 🗄️ Bases de données & Conception
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
-- **Modélisation :** MERISE (MCD, MLD)
-- **Gestion des données :** requêtes SQL, opérations CRUD et relations entre tables.
-- **ORM :** modélisation et accès aux données avec Prisma.
+- **SQL :** requêtes, opérations CRUD et gestion des relations entre tables.
+- **Modélisation :** MERISE, MCD et MLD.
+- **Conception de bases de données :** Looping.
+- **ORM :** gestion des données et interactions avec la base via Prisma.
 
-### 🧰 Outils & Environnement de développement
+### 🧰 Outils & Environnement
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/WampServer-DC143C?style=for-the-badge&logo=windows&logoColor=white" alt="WampServer"/>
 </p>
 
----
-
-## 🚀 Projet principal
-
-### OPQUAL — KPI Platform
-
-Développement d'une application web destinée au suivi des indicateurs clés de performance (KPI) et à la gestion des activités dans le secteur de la construction.
-
-**Technologies :** React, NestJS, TypeScript, Prisma, PostgreSQL et Docker.
-
-Ce projet me permet de mettre en pratique le développement frontend, la conception d'API REST, la gestion des données relationnelles et l'intégration entre le frontend et le backend.
----
-
-## 💡 À propos de moi
-
-- 📚 J'apprends continuellement de nouvelles technologies à travers la pratique.
-- 🧩 J'aime résoudre des problèmes techniques et concevoir des solutions fonctionnelles.
-- 🔌 Je m'intéresse à la conception et à l'intégration d'API ainsi qu'à la gestion des bases de données.
-- 🚀 Mon objectif est de devenir un **développeur Full-Stack** capable de concevoir, développer et déployer des applications web complètes.
+- **Swagger / OpenAPI :** documentation et exploration des API.
+- **Postman :** tests et validation des endpoints.
+- **Docker :** conteneurisation et environnement de développement.
+- **Git & GitHub :** gestion de versions et collaboration.
 
 ---
 
-## 🤝 Restons en contact
+## 💼 Domaines d'intervention
 
-N'hésitez pas à consulter mes dépôts GitHub pour découvrir mes projets et suivre mon évolution en développement web.
+- Développement d'applications web Full-Stack.
+- Création d'interfaces web responsives et fonctionnelles.
+- Développement, intégration et documentation d'API REST.
+- Conception et gestion de bases de données relationnelles.
+- Modélisation des données et structuration des applications.
+- Tests d'API, débogage et résolution de problèmes techniques.
+- Conteneurisation et configuration des environnements de développement.
 
-⭐ Merci de visiter mon profil !
+---
+
+## 🎯 Profil professionnel
+
+Développeur Full-Stack orienté vers la qualité du code, la fiabilité des applications et la résolution de problèmes. Je peux intervenir sur le frontend, le backend et la base de données, tout en tenant compte des besoins fonctionnels et des contraintes techniques.
+
+Ouvert aux opportunités professionnelles, aux collaborations techniques et aux projets de développement web.
+
+---
+
+⭐ Merci de visiter mon profil GitHub !
