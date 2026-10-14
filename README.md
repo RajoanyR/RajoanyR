@@ -32,7 +32,7 @@ Rigoureux, autonome et orienté solutions, je suis capable de participer aux dif
 - Gestion de l'authentification et des échanges entre frontend et backend.
 - Organisation de la logique métier et structuration des applications serveur.
 
-  ### 🔐 Sécurité, API & Architecture des SI
+### 🔐 Sécurité, API & Architecture des SI
 
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
