@@ -32,6 +32,21 @@ Rigoureux, autonome et orienté solutions, je suis capable de participer aux dif
 - Gestion de l'authentification et des échanges entre frontend et backend.
 - Organisation de la logique métier et structuration des applications serveur.
 
+  ### 🔐 Sécurité, API & Architecture des SI
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge" alt="bcrypt"/>
+  <img src="https://img.shields.io/badge/CORS-2C3E50?style=for-the-badge" alt="CORS"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+</p>
+
+- **Authentification & sécurité :** JWT, hachage des mots de passe avec bcrypt, gestion des accès et configuration CORS.
+- **Développement d'API :** conception, documentation et tests d'API REST avec Swagger/OpenAPI et Postman.
+- **Systèmes d'Information (SI) :** analyse des besoins, organisation des données et conception de solutions informatiques.
+- **Modélisation :** méthode MERISE, MCD, MLD et conception avec Looping.
+
 ### 🗄️ Bases de données & Conception
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
